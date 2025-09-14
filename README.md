@@ -19,5 +19,5 @@ Allows You To Send A TCP Or UDP Request
 ### More Utility Functions
 ### Expanding TCP, UDP, And HTTP
 ### Proper Documentation
-### HTTP Currently Requires RequestUri And Website Url To Be Specified Seperately, Would Like Them To Be Togethet
+### HTTP Currently Requires RequestUri And Website Url To Be Specified Seperately, Would Like Them To Be Together
 ### Any Help Is Appreciated!
